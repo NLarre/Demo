@@ -1,4 +1,4 @@
 Esta es una demo para probar un push de un proyecto en github usando git en Ubuntu.
 Agregando un cambio al archivo demo.
-Probar el cambio del archivo conectanco con ssh.
+Probar el cambio del archivo conectando con ssh.
 
